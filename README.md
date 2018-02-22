@@ -11,4 +11,7 @@ A basic interface to model roled surfaces for my thesis project. It is integrate
 
 
 ### 3- Swarm Intelligence
-As a part of landscape design project for reviving south west Pennsylvania coal mines, I developed these swarm models to simulate the vegetation growth on the contaminated soil.
+As a part of landscape design project for reviving south west Pennsylvania coal mines, I developed these swarm models to simulate the vegetation growth on the contaminated soil.<br>
+![examples](https://github.com/Ardibid/Processing_projects/blob/master/Swarm%20Intelligence/01.jpg)
+![examples](https://github.com/Ardibid/Processing_projects/blob/master/Swarm%20Intelligence/02.jpg)
+
