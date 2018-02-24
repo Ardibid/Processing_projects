@@ -1,7 +1,7 @@
 ## Processing sketches <br>
 These are processing sketches from Fall 2014 and Spring 2015 projects. They include data visualization, data processing, some agent based AI systems. <br>
 
-### 1- CUMArduino/Processing
+### 1- Arduino/Processing
 This is a data collection/data cisualization project based on air qiality sensors installed on an Arduino board. The sensory system was installed on a truck and to survey air quality in a colal mine in south west Pennsylvania. 
 ![data visualization samples](https://github.com/Ardibid/Processing_projects/blob/master/Arduino_Processing/01.jpg)
 
@@ -18,4 +18,3 @@ A basic interface to model roled surfaces for my thesis project. It is integrate
 As a part of landscape design project for reviving south west Pennsylvania coal mines, I developed these swarm models to simulate the vegetation growth on the contaminated soil.<br>
 ![examples](https://github.com/Ardibid/Processing_projects/blob/master/Swarm%20Intelligence/01.jpg)
 ![examples](https://github.com/Ardibid/Processing_projects/blob/master/Swarm%20Intelligence/02.jpg)
-
